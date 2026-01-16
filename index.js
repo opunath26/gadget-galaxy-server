@@ -4,7 +4,6 @@ const fs = require('fs');
 const app = express();
 const PORT = 5000;
 
-// Middleware
 app.use(cors());
 app.use(express.json());
 
@@ -20,9 +19,16 @@ app.get('/api/products', (req, res) => {
 
 app.get('/api/products/:id', (req, res) => {
     const id = req.params.id;
+    
     fs.readFile('./products.json', 'utf8', (err, data) => {
+        if (err) {
+            return res.status(500).send("Error reading file");
+        }
+        
         const products = JSON.parse(data);
-        const product = products.find(p => p.id === id);
+        
+        const product = products.find(p => p.id.toString() === id.toString());
+
         if (product) {
             res.json(product);
         } else {
