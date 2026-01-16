@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 15 Pro",
+    "description": "Experience the power of Titanium and the A17 Pro chip. The ultimate iPhone experience.",
+    "price": 1099,
+    "category": "Smartphones",
+    "image": "https://via.placeholder.com/300x200?text=iPhone+15+Pro"
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Galaxy AI is here. 200MP camera and the brightest display ever on a Galaxy.",
+    "price": 1299,
+    "category": "Smartphones",
+    "image": "https://via.placeholder.com/300x200?text=Galaxy+S24+Ultra"
+  },
+  {
+    "id": "3",
+    "name": "MacBook Air M3",
+    "description": "Supercharged by the M3 chip. Thin, light, and faster than ever for work and play.",
+    "price": 1199,
+    "category": "Laptops",
+    "image": "https://via.placeholder.com/300x200?text=MacBook+Air+M3"
+  },
+  {
+    "id": "4",
+    "name": "Sony WH-1000XM5",
+    "description": "Industry-leading noise canceling headphones with exceptional sound quality.",
+    "price": 349,
+    "category": "Audio",
+    "image": "https://via.placeholder.com/300x200?text=Sony+Headphones"
+  },
+  {
+    "id": "5",
+    "name": "Apple Watch Series 9",
+    "description": "Smarter, brighter, mightier. The most advanced health features in a smartwatch.",
+    "price": 399,
+    "category": "Wearables",
+    "image": "https://via.placeholder.com/300x200?text=Apple+Watch"
+  },
+  {
+    "id": "6",
+    "name": "Dell XPS 15",
+    "description": "Stunning OLED display with powerful performance for creators and professionals.",
+    "price": 1599,
+    "category": "Laptops",
+    "image": "https://via.placeholder.com/300x200?text=Dell+XPS+15"
+  },
+  {
+    "id": "7",
+    "name": "iPad Pro M2",
+    "description": "Astonishing performance and an incredibly advanced Liquid Retina XDR display.",
+    "price": 999,
+    "category": "Tablets",
+    "image": "https://via.placeholder.com/300x200?text=iPad+Pro"
+  },
+  {
+    "id": "8",
+    "name": "Logitech MX Master 3S",
+    "description": "Ultimate wireless mouse designed for precision, speed, and comfort.",
+    "price": 99,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300x200?text=Logitech+Mouse"
+  },
+  {
+    "id": "9",
+    "name": "Asus ROG Zephyrus G14",
+    "description": "Powerful gaming laptop with AMD Ryzen 9 and RTX 40-series graphics.",
+    "price": 1799,
+    "category": "Gaming",
+    "image": "https://via.placeholder.com/300x200?text=Gaming+Laptop"
+  },
+  {
+    "id": "10",
+    "name": "AirPods Pro (2nd Gen)",
+    "description": "Active Noise Cancellation, Adaptive Audio, and Personalized Spatial Audio.",
+    "price": 249,
+    "category": "Audio",
+    "image": "https://via.placeholder.com/300x200?text=AirPods+Pro"
+  },
+  {
+    "id": "11",
+    "name": "Google Pixel 8 Pro",
+    "description": "The all-pro phone with Google's best camera and powerful AI features.",
+    "price": 999,
+    "category": "Smartphones",
+    "image": "https://via.placeholder.com/300x200?text=Pixel+8+Pro"
+  },
+  {
+    "id": "12",
+    "name": "Keychron K2 Keyboard",
+    "description": "Wireless mechanical keyboard with a compact layout and tactile typing experience.",
+    "price": 89,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300x200?text=Keychron+K2"
+  },
+  {
+    "id": "13",
+    "name": "GoPro HERO12 Black",
+    "description": "Incredible image quality, better video stabilization, and longer battery life.",
+    "price": 399,
+    "category": "Cameras",
+    "image": "https://via.placeholder.com/300x200?text=GoPro+Hero12"
+  },
+  {
+    "id": "14",
+    "name": "Nintendo Switch OLED",
+    "description": "Vibrant 7-inch OLED screen with a wide adjustable stand and enhanced audio.",
+    "price": 349,
+    "category": "Gaming",
+    "image": "https://via.placeholder.com/300x200?text=Nintendo+Switch"
+  },
+  {
+    "id": "15",
+    "name": "Samsung T7 SSD 1TB",
+    "description": "Fast external storage with read speeds up to 1050MB/s and shock resistance.",
+    "price": 120,
+    "category": "Storage",
+    "image": "https://via.placeholder.com/300x200?text=Samsung+SSD"
+  },
+  {
+    "id": "16",
+    "name": "Kindle Paperwhite",
+    "description": "Purpose-built for reading with a 300 ppi glare-free display and waterproof design.",
+    "price": 139,
+    "category": "Tablets",
+    "image": "https://via.placeholder.com/300x200?text=Kindle"
+  },
+  {
+    "id": "17",
+    "name": "DJI Mini 4 Pro",
+    "description": "Mini-sized, mega-capable drone with 4K HDR video and omnidirectional sensing.",
+    "price": 759,
+    "category": "Cameras",
+    "image": "https://via.placeholder.com/300x200?text=DJI+Drone"
+  },
+  {
+    "id": "18",
+    "name": "Razer BlackShark V2 Pro",
+    "description": "Premium wireless esports headset with high-fidelity audio and crystal-clear mic.",
+    "price": 199,
+    "category": "Gaming",
+    "image": "https://via.placeholder.com/300x200?text=Razer+Headset"
+  },
+  {
+    "id": "19",
+    "name": "Belkin 3-in-1 Charger",
+    "description": "Fast wireless charging station for your iPhone, Apple Watch, and AirPods.",
+    "price": 149,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300x200?text=Belkin+Charger"
+  },
+  {
+    "id": "20",
+    "name": "Microsoft Surface Pro 9",
+    "description": "The power of a laptop with the flexibility of a tablet, perfect for on-the-go.",
+    "price": 999,
+    "category": "Tablets",
+    "image": "https://via.placeholder.com/300x200?text=Surface+Pro+9"
+  }
+]
