@@ -5,7 +5,7 @@
     "description": "Experience the power of Titanium and the A17 Pro chip. The ultimate iPhone experience.",
     "price": 1099,
     "category": "Smartphones",
-    "image": "https://via.placeholder.com/300x200?text=iPhone+15+Pro"
+    "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone_15_pro.png"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "description": "Galaxy AI is here. 200MP camera and the brightest display ever on a Galaxy.",
     "price": 1299,
     "category": "Smartphones",
-    "image": "https://via.placeholder.com/300x200?text=Galaxy+S24+Ultra"
+    "image": "https://www.mobiledokan.co/wp-content/uploads/2022/12/Samsung-Galaxy-S24-Ultra-Titanium-Yellow.webp"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "description": "Supercharged by the M3 chip. Thin, light, and faster than ever for work and play.",
     "price": 1199,
     "category": "Laptops",
-    "image": "https://via.placeholder.com/300x200?text=MacBook+Air+M3"
+    "image": "https://www.fotocart.com.bd/storage/product-photos/apple-macbook-air-13-1.jpg"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "description": "Industry-leading noise canceling headphones with exceptional sound quality.",
     "price": 349,
     "category": "Audio",
-    "image": "https://via.placeholder.com/300x200?text=Sony+Headphones"
+    "image": "https://preview.redd.it/wh-1000xm5-review-after-2-years-the-good-the-bad-and-why-i-v0-iepcicejcg6e1.jpg?width=640&crop=smart&auto=webp&s=c1acd700138dc9f239b91054cd8581cb5a00c17a"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "description": "Smarter, brighter, mightier. The most advanced health features in a smartwatch.",
     "price": 399,
     "category": "Wearables",
-    "image": "https://via.placeholder.com/300x200?text=Apple+Watch"
+    "image": "https://mobilebuzzbd.com/wp-content/uploads/2024/01/Apple-Watch-Series-9-Graphite.webp"
   },
   {
     "id": "6",
@@ -45,7 +45,7 @@
     "description": "Stunning OLED display with powerful performance for creators and professionals.",
     "price": 1599,
     "category": "Laptops",
-    "image": "https://via.placeholder.com/300x200?text=Dell+XPS+15"
+    "image": "//www.custommacbd.com/cdn/shop/files/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGY29tcHV0ZXJtYW5pYS5jb20uYmQlMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRkRlbGwtWFBTLTE1LTItMy5qcGcmY2FjaGVNYXJrZXI9MTY4NTUxNDExNi05OTA5MSZ0b2tlbj0yODg_c1b3e3bb-c605-4f65-992f-9026f401da45_300x300.jpg?v=1687590639"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "description": "Astonishing performance and an incredibly advanced Liquid Retina XDR display.",
     "price": 999,
     "category": "Tablets",
-    "image": "https://via.placeholder.com/300x200?text=iPad+Pro"
+    "image": "https://www.apple.com/newsroom/images/product/ipad/lifestyle/Apple-iPad-Pro-Magic-Keyboard-M2-hero-2up-221018_big.jpg.large.jpg"
   },
   {
     "id": "8",
@@ -61,7 +61,7 @@
     "description": "Ultimate wireless mouse designed for precision, speed, and comfort.",
     "price": 99,
     "category": "Accessories",
-    "image": "https://via.placeholder.com/300x200?text=Logitech+Mouse"
+    "image": "https://insider.kelbyone.com/wp-content/uploads/2023/04/logi-mouse-1280x720.jpg"
   },
   {
     "id": "9",
@@ -69,7 +69,7 @@
     "description": "Powerful gaming laptop with AMD Ryzen 9 and RTX 40-series graphics.",
     "price": 1799,
     "category": "Gaming",
-    "image": "https://via.placeholder.com/300x200?text=Gaming+Laptop"
+    "image": "https://dlcdnwebimgs.asus.com/gain/10BD5312-B087-4841-B7A1-523F80C9D2B2"
   },
   {
     "id": "10",
@@ -77,7 +77,7 @@
     "description": "Active Noise Cancellation, Adaptive Audio, and Personalized Spatial Audio.",
     "price": 249,
     "category": "Audio",
-    "image": "https://via.placeholder.com/300x200?text=AirPods+Pro"
+    "image": "https://cdn.bdstall.com/product-image/giant_278418.jpg"
   },
   {
     "id": "11",
@@ -85,7 +85,7 @@
     "description": "The all-pro phone with Google's best camera and powerful AI features.",
     "price": 999,
     "category": "Smartphones",
-    "image": "https://via.placeholder.com/300x200?text=Pixel+8+Pro"
+    "image": "https://cdn.bdstall.com/product-image/giant_260934.jpg"
   },
   {
     "id": "12",
@@ -93,7 +93,7 @@
     "description": "Wireless mechanical keyboard with a compact layout and tactile typing experience.",
     "price": 89,
     "category": "Accessories",
-    "image": "https://via.placeholder.com/300x200?text=Keychron+K2"
+    "image": "https://cdn.mos.cms.futurecdn.net/MTg8on7XvPPnTxu9w6CH9N.jpg"
   },
   {
     "id": "13",
@@ -101,7 +101,7 @@
     "description": "Incredible image quality, better video stabilization, and longer battery life.",
     "price": 399,
     "category": "Cameras",
-    "image": "https://via.placeholder.com/300x200?text=GoPro+Hero12"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQn5QwJ94ulAygjIR6zMbFI9yZayvmCPQrA&s"
   },
   {
     "id": "14",
@@ -109,7 +109,7 @@
     "description": "Vibrant 7-inch OLED screen with a wide adjustable stand and enhanced audio.",
     "price": 349,
     "category": "Gaming",
-    "image": "https://via.placeholder.com/300x200?text=Nintendo+Switch"
+    "image": "https://cdn.mos.cms.futurecdn.net/WtvebnGHCFseEiU46T9ozg.jpg"
   },
   {
     "id": "15",
@@ -117,7 +117,7 @@
     "description": "Fast external storage with read speeds up to 1050MB/s and shock resistance.",
     "price": 120,
     "category": "Storage",
-    "image": "https://via.placeholder.com/300x200?text=Samsung+SSD"
+    "image": "https://www.custommacbd.com/cdn/shop/products/Samsung-portable-ssd-shield-1tb-blue-custom-mac-bd.jpg?v=1677514908"
   },
   {
     "id": "16",
@@ -125,7 +125,7 @@
     "description": "Purpose-built for reading with a 300 ppi glare-free display and waterproof design.",
     "price": 139,
     "category": "Tablets",
-    "image": "https://via.placeholder.com/300x200?text=Kindle"
+    "image": "https://alhamdtech.pk/cdn/shop/files/amazon-kindle-paperwhite-12th-gen-7-16gb-561184.jpg?v=1736820359"
   },
   {
     "id": "17",
@@ -133,7 +133,7 @@
     "description": "Mini-sized, mega-capable drone with 4K HDR video and omnidirectional sensing.",
     "price": 759,
     "category": "Cameras",
-    "image": "https://via.placeholder.com/300x200?text=DJI+Drone"
+    "image": "https://sc04.alicdn.com/kf/H6e93ded06f13457da94547c679a0f73fK.jpg"
   },
   {
     "id": "18",
@@ -141,7 +141,7 @@
     "description": "Premium wireless esports headset with high-fidelity audio and crystal-clear mic.",
     "price": 199,
     "category": "Gaming",
-    "image": "https://via.placeholder.com/300x200?text=Razer+Headset"
+    "image": "https://assets2.razerzone.com/images/pnx.assets/0de78efe3441114d8a92590145fff4c8/razer-blackshark-v2-pro-2023_ogimage-1200x630.jpg"
   },
   {
     "id": "19",
@@ -149,7 +149,7 @@
     "description": "Fast wireless charging station for your iPhone, Apple Watch, and AirPods.",
     "price": 149,
     "category": "Accessories",
-    "image": "https://via.placeholder.com/300x200?text=Belkin+Charger"
+    "image": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw9332abf4/images/hi-res/5/5c8f95e6427881b8_WIZ040ch-ultra-charge-pro-3in1-magnetic-charging-dock-shot-hero-01.jpg?sfrm=png"
   },
   {
     "id": "20",
@@ -157,6 +157,6 @@
     "description": "The power of a laptop with the flexibility of a tablet, perfect for on-the-go.",
     "price": 999,
     "category": "Tablets",
-    "image": "https://via.placeholder.com/300x200?text=Surface+Pro+9"
+    "image": "https://www.pcworld.com/wp-content/uploads/2025/04/Surface-Pro-9-liberty-different-configs.jpg?quality=50&strip=all&w=1024"
   }
 ]
